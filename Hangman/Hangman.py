@@ -1,7 +1,7 @@
 import random
 
-from Hangman_Art import *
-from Hangman_Words import *
+from HangmanArt import *
+from HangmanWords import *
 
 def get_character_index_mapping(string_to_break):
     character_index_mapping = {}

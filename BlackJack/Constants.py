@@ -1,0 +1,9 @@
+available_cards_list = ['Clubs-Ace', 'Clubs-King', 'Clubs-Queen', 'Clubs-Jack', 'Clubs-10', 'Clubs-9', 'Clubs-8', 'Clubs-7', 'Clubs-6', 'Clubs-5', 'Clubs-4', 'Clubs-3', 'Clubs-2',
+                        'Hearts-Ace', 'Hearts-King', 'Hearts-Queen', 'Hearts-Jack', 'Hearts-10', 'Hearts-9', 'Hearts-8', 'Hearts-7', 'Hearts-6', 'Hearts-5', 'Hearts-4', 'Hearts-3', 'Hearts-2',
+                        'Diamond-Ace', 'Diamond-King', 'Diamond-Queen', 'Diamond-Jack', 'Diamond-10', 'Diamond-9', 'Diamond-8', 'Diamond-7', 'Diamond-6', 'Diamond-5', 'Diamond-4', 'Diamond-3', 'Diamond-2',
+                        'Spades-Ace', 'Spades-King', 'Spades-Queen', 'Spades-Jack', 'Spades-10', 'Spades-9', 'Spades-8', 'Spades-7', 'Spades-6', 'Spades-5', 'Spades-4', 'Spades-3', 'Spades-2']
+
+cards_value = {'Clubs-Ace':11, 'Clubs-King':10, 'Clubs-Queen':10, 'Clubs-Jack':10, 'Clubs-10':10, 'Clubs-9':9, 'Clubs-8':8, 'Clubs-7':7, 'Clubs-6':6, 'Clubs-5':5, 'Clubs-4':4, 'Clubs-3':3, 'Clubs-2':2,
+                'Hearts-Ace':11, 'Hearts-King':10, 'Hearts-Queen':10, 'Hearts-Jack':10, 'Hearts-10':10, 'Hearts-9':9, 'Hearts-8':8, 'Hearts-7':7, 'Hearts-6':6, 'Hearts-5':5, 'Hearts-4':4, 'Hearts-3':3, 'Hearts-2':2,
+               'Diamond-Ace':11, 'Diamond-King':10, 'Diamond-Queen':10, 'Diamond-Jack':10, 'Diamond-10':10, 'Diamond-9':9, 'Diamond-8':8, 'Diamond-7':7, 'Diamond-6':6, 'Diamond-5':5, 'Diamond-4':4, 'Diamond-3':3, 'Diamond-2':2,
+                'Spades-Ace':11, 'Spades-King':10, 'Spades-Queen':10, 'Spades-Jack':10, 'Spades-10':10, 'Spades-9':9, 'Spades-8':8, 'Spades-7':7, 'Spades-6':6, 'Spades-5':5, 'Spades-4':4, 'Spades-3':3, 'Spades-2':2}
